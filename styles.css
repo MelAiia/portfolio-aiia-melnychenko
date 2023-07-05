@@ -20,12 +20,12 @@ h4 {
 
 h1 {
   color: var(--primary-color);
-  font-size: 96px;
+  font-size: 70px;
 }
 
 h2 {
   color: var(--first-color);
-  font-size: 48px;
+  font-size: 40px;
 }
 
 h3 {
