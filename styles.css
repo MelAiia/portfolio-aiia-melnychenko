@@ -148,4 +148,8 @@ p {
   .email-link {
     font-size: 20px;
   }
+
+  .paragraph {
+    font-size: 12px;
+  }
 }
